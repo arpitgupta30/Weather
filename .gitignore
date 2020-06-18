@@ -1,0 +1,6 @@
+/.vscode
+/myvenv
+db.sqlite3
+/th_weather/__pycache__
+/weather/__pycache__
+/weather/migrations
